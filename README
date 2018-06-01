@@ -1,0 +1,10 @@
+***************Hierarchical Clustering***************
+Packages used:
+	Scipy
+	Heapq
+	networkx
+	pickle
+	numpy
+	Collections
+
+For running the code keep proximity.pkl in the same folder.
